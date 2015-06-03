@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "quickdoc:lookup"
   },
-  "repository": "https://github.com/atom/quickdoc",
+  "repository": "https://github.com/Zmaon/atom-quickdoc.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

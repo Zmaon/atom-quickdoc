@@ -1,5 +1,5 @@
 # quickdoc package
 
-A short description of your package.
+Use Ctrl-Shift-d (or the command Quickdoc:Lookup) to open documentation for the current word in your browser.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+PLEASE HELP! You can contribute by adding the base URLs for different programming languages in config.json.
