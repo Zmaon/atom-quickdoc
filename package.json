@@ -1,0 +1,16 @@
+{
+  "name": "quickdoc",
+  "main": "./lib/quickdoc",
+  "version": "0.0.1",
+  "description": "Open the documentation for the current word in your browser",
+  "activationCommands": {
+    "atom-workspace": "quickdoc:lookup"
+  },
+  "repository": "https://github.com/atom/quickdoc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

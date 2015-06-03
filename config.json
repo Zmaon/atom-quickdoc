@@ -1,0 +1,7 @@
+{
+    "base_urls": {
+        "php": "http://php.net/function.",
+        "jquery": "http://api.jquery.com/",
+        "default": "http://devdocs.io/#q="
+    }
+}
