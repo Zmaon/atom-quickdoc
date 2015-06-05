@@ -1,7 +1,7 @@
 {
   "name": "quickdoc",
   "main": "./lib/quickdoc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Open the documentation for the current word in your browser",
   "activationCommands": {
     "atom-workspace": "quickdoc:lookup"
