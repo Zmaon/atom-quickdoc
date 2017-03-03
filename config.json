@@ -2,6 +2,7 @@
     "base_urls": {
         "php": "http://php.net/function.",
         "jquery": "http://api.jquery.com/",
+        "faust": "http://faust.grame.fr/libraries.html#",
         "default": "http://devdocs.io/#q="
     }
 }
